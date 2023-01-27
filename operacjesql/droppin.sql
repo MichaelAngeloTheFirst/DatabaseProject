@@ -1,0 +1,1 @@
+ DROP TABLE akrobata, bilet, obsluga, smakolyk, smakolyk_to_zwierze_relation, treser_to_wystep_relation,akrobata_to_wystep_relation, obsluga_to_wystep_relation, treser, wystep, wystep_to_bilet_relation, zwierze CASCADE;
